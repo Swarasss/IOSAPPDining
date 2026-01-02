@@ -6,7 +6,7 @@ Software: Swift, Xcode, SwiftUI
 
 No persistent storage.
 
-Features
+Features:
 
 API Integration: Weather API and RandomFacts API.
 
